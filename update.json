@@ -1,5 +1,5 @@
 {
   "latest": "1.1.0",
-  "update_url": "https://github.com/YourUser/your-repo/raw/main/releases/1.1.0.zip",
+  "update_url": "https://github.com/MyTravell/update/archive/refs/heads/main.zip",
   "note": "升級 YOLOv8 推理邏輯，加入空間座標支持"
 }
